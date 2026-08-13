@@ -2,7 +2,7 @@
 
 This is my personal portfolio site. Built it to have one place that shows what I actually work on, instead of just a resume PDF sitting in someone's downloads folder.
 
-**Live here:** https://sushmita2000g-glitch.github.io/Sushmita_Poddar_Portfolio/
+**Live here:**
 
 ## What's on it
 
