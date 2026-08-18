@@ -2,7 +2,7 @@
 
 This is my personal portfolio site. Built it to have one place that shows what I actually work on, instead of just a resume PDF sitting in someone's downloads folder.
 
-**Live here:**
+**Live here:** https://sushmita-poddar-portfolio-sushmita-s-projects1.vercel.app
 
 ## What's on it
 
